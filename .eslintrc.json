@@ -1,0 +1,7 @@
+{
+    "extends": "airbnb-base",
+    "rules":{
+        "no-param-reassign": "off",
+        "class-methods-use-this":"warn"
+    }  
+}
